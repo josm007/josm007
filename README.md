@@ -14,10 +14,10 @@
 </div>
    
   <div style="display: inline_block"><br>
-  <img align="center" alt="Josm-HTML" height="30" width="40" src="https://github.com/josm007/Ferramentas/tree/main/icones/html5-original.svg">
-  <img align="center" alt="Josm-CSS" height="30" width="40" src="https://github.com/josm007/icones/blob/main/css3-original.svg">
-  <img align="center" alt="Josm-CSS" height="30" width="40" src="https://github.com/josm007/icones/blob/main/javascript-original.svg">
-  <img align="center" alt="Josm-php" height="50" width="50" src="https://github.com/josm007/icones/blob/main/php-original.svg">
+  <img align="center" alt="Josm-HTML" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/css3-original.svg">
+  <img align="center" alt="Josm-CSS" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/html5-original.svg">
+  <img align="center" alt="Josm-CSS" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/javascript-original.svg">
+  <img align="center" alt="Josm-php" height="50" width="50" src="https://github.com/josm007/Ferramentas/blob/main/icones/php-original.svg">
      
 </div>
   
