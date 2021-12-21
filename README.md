@@ -12,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josm007&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
+  ## Habilidades:
   <div style="display: inline_block"><br>
   <img align="center" alt="Josm-HTML" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/css3-original.svg">
   <img align="center" alt="Josm-CSS" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/html5-original.svg">
@@ -20,8 +21,7 @@
      
 </div>
   
-   ##
-  
+   ## Contate-me:
   <div>   
   <a href="https://instagram.com/josm_3051" target="_blank"><img align="center" alt="Instagram" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/instagram.png"></a>   
   <a href = "mailto:josm3051@gmail.com"><img align="center" alt="Gmail" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/gmail.png"></a>  
