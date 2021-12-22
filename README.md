@@ -9,8 +9,7 @@
 <div align="center">
   <a href="https://github.com/josm007">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josm007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josm007&layout=compact)](https://github.com/josm007/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josm007&layout=compact&langs_count=josm007&theme=dark"/> 
 
     
   
@@ -26,7 +25,7 @@
      
 </div>
   
-   ## Contate-me:
+   ## Contate-me se desejar interagir a fim de trocar conhecimentos:
   <div>   
   <a href="https://instagram.com/josm_3051" target="_blank"><img align="center" alt="Instagram" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/instagram.png"></a>   
   <a href = "mailto:josm3051@gmail.com"><img align="center" alt="Gmail" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/gmail.png"></a>  
