@@ -30,7 +30,7 @@
   <a href="https://instagram.com/josm_3051" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josm3051@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/júlio-mesquita-a976921b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://api.whatsapp.com/send?phone=5592993386769&text=Ol%C3%A1%2C%20seja%20bem%20vindo%20ao%20meu%20WhatsApp.%20Favor%2C%20enviar%20mensagem%20e%20aguardar%20retorno.%20Assim%20que%20puder%2C%20entrarei%20em%20contato.%20" target="_blank"><img align="center" alt="WhatsApp" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/whatsapp.png"></a>
+    <a href="https://api.whatsapp.com/send?phone=5592993386769&text=Ol%C3%A1%2C%20seja%20bem%20vindo%20ao%20meu%20WhatsApp.%20Favor%2C%20enviar%20mensagem%20e%20aguardar%20retorno.%20Assim%20que%20puder%2C%20entrarei%20em%20contato.%20" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white&color=success" target="_blank"></a>
   
   ![Snake animation](https://github.com/josm007/josm007/blob/output/github-contribution-grid-snake.svg)
   
