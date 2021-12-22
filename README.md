@@ -9,8 +9,8 @@
 <div align="center">
   <a href="https://github.com/josm007">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josm007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josm007&layout=compact&langs_count=josm007&theme=dark"/> 
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josm007&layout=compact&langs_count=7&theme=dracula"/>
+</div>   
     
   
 </div>
@@ -29,6 +29,9 @@
   <div>   
   <a href="https://instagram.com/josm_3051" target="_blank"><img align="center" alt="Instagram" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/instagram.png"></a>       
   <a href = "mailto:josm3051@gmail.com"><img align="center" alt="Gmail" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/gmail.png"></a>  
-  <a href="https://www.linkedin.com/in/júlio-mesquita-a976921b7" target="_blank"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/linkedin-original.svg"></a> 
+  <a href="https://www.linkedin.com/in/júlio-mesquita-a976921b7" target="_blank"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/linkedin-original.svg" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5592993386769&text=Ol%C3%A1%2C%20seja%20bem%20vindo%20ao%20meu%20WhatsApp.%20Favor%2C%20enviar%20mensagem%20e%20aguardar%20retorno.%20Assim%20que%20puder%2C%20entrarei%20em%20contato.%20" target="_blank"><img align="center" alt="WhatsApp" height="30" width="40" src="https://github.com/josm007/Ferramentas/blob/main/icones/whatsapp.png"></a>
+  
+  ![Snake animation](https://github.com/josm007/josm007/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
