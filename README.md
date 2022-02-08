@@ -14,10 +14,10 @@
 
 </div>
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benccalcyxzfi&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josm007&theme=dark">
   </div>
   <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=josm007&theme=nord&column=7" >
   
 </div>   
   ## Habilidades:
