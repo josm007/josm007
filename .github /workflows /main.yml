@@ -1,24 +1,53 @@
-name :  Generate Datas 
+# GitHub Action para gerar um gráfico de contribuição com uma cobra comendo suas contribuições. 
+
+nome : Gerar Serpente 
+
+# Controla quando a ação será executada. Esta ação é executada a cada 6 horas. 
 
 em : 
-  cronograma : # executar a cada 12 horas 
-- cron : " * * / 12 * * * " 
+  cronograma : 
+      # a cada 24 horas 
+: -cron * " */24 * * * " 
+
+# Este comando nos permite executar a Ação automaticamente na aba Ações. 
   workflow_dispatch : 
 
+# A sequência de execuções neste fluxo de trabalho: 
 empregos : 
+  # Este fluxo de trabalho contém um único trabalho denominado "build" 
   construir : 
-    nome : Trabalhos para atualizar dados 
+    # O tipo de executor em que o trabalho será executado 
     roda em : ubuntu-mais recente 
+
+    # As etapas representam uma sequência de tarefas que serão executadas como parte do trabalho 
     passos : 
-      # Animação de cobra 
+
+    # Verifica o repositório em $GITHUB_WORKSHOP, para que seu trabalho possa acessá-lo 
+- usa : ações / checkout @ v2 
+
+    # Gera a cobra 
 - usa : Platane / snk @ master 
         id : snake-gif 
         com : 
           github_user_name : josm007 
+          # essas próximas 2 linhas geram os arquivos em um branch chamado "output". Isso evita que o branch principal fique confuso. 
+          gif_out_path : dist/github-contribution-grid-snake.gif 
           svg_out_path : dist / github-customization-grid-snake.svg 
+
+     # mostra o status da compilação. Facilita a depuração (se houver algum problema). 
+- executar : git status 
+
+      # Empurre as alterações 
+- nome : Empurre alterações 
+        usa : ad-m/github-push-action@master 
+        com : 
+          github_token : ${{ secrets.GITHUB_TOKEN }} 
+          ramo : mestre 
+          força : verdade 
 
 - usa : crazy-max/ghaction-github-pages@v2.1.3 
         com : 
+          # a ramificação de saída que mencionamos acima 
           target_branch : output 
           build_dir : dist 
         env : 
