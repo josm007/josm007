@@ -1,7 +1,7 @@
 # 🎄 🎁 Feliz 2022   🎁 ☃️
 ### Olá, seja bem vindo(a)! Sou o Júlio Mesquita
 
-- 📌 - Atualmente estou desenvolvendo um novo site baseado Bootstrap 5
+- 📌 - Gosto de codar por hobby e atualmente estou desenvolvendo um sistema visando gerenciar a horas/homens realizadas mensalmente num setor governamental. 
 - 🖥️ - Linguagens: PHP, Java Script - Framework: Bootstrap
 - 📧 E-Mail: josm_007@yahoo.com.br
 - 😄 Pronome: Ele/dele
