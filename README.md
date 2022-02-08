@@ -11,14 +11,13 @@
   <a href="https://github.com/benccalcyxzfi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josm007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josm007&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-
 </div>
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josm007&theme=dark">
-  </div>
+    
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josm007&theme=dark"> 
   <h2>🏆  GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=josm007&theme=nord&column=7" >  
-</div>   
+    <img src="https://github-profile-trophy.vercel.app/?username=josm007&theme=nord&column=7" >  
+ </div>   
 
   ## Habilidades:
   <div style="display: inline_block"><br>
